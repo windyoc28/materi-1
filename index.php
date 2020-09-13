@@ -18,5 +18,5 @@
 	$bmw->mesin = "200cc";
 	$bmw->max_speed = "200km/h";
 
-echo "Tipe".$bmw->kecepatanMaksimal();
+echo $bmw->kecepatanMaksimal();
 
